@@ -1,0 +1,21 @@
+#top {
+	background-image: url("wallpaper.jpg");
+	color: white;
+   }
+
+body {
+	background-color: black;
+}
+
+footer {
+	text-align: center;
+	color: white;
+}
+
+.container-fluid {
+opacity: 50%;
+}
+
+#fill {
+	opacity: 50%;
+}
